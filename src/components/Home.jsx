@@ -14,7 +14,7 @@ function Home() {
       ></video>
 
       <div className="absolute inset-0 flex flex-col items-center justify-center text-white text-center px-4">
-        <h1 className="text-3xl md:text-5xl font-bold">Crafting the Perfect Space for You.</h1>
+        <h1 className="text-3xl md:text-4xl font-bold">Crafting the Perfect Space for You.</h1>
         <p className="mt-4 text-xl md:text-2xl">
           Architecture | Interior Design | Landscape
         </p>

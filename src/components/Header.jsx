@@ -16,7 +16,7 @@ function Header() {
   ];
 
   return (
-    <header className="h-20 bg-black w-full flex items-center justify-between px-6 md:px-14 relative">
+    <header className="h-20 bg-black w-full fixed top-0 left-0 flex items-center justify-between px-6 md:px-7 z-50">
       <div className="h-fit w-fit">
         <Link to="/" className="flex items-center">
           <h1 className="text-white text-2xl font-bold whitespace-nowrap">Arena Studio</h1>
