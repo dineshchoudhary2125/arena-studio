@@ -5,8 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        kanit: ["Kanit", "sans-serif"], // Custom font added
+      },
+    },
   },
   plugins: [],
 }
-

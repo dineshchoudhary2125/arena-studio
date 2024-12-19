@@ -12,9 +12,16 @@ html, body {
 }
 
 #root, .app {
-  padding-top: 80px; 
+  margin-top: 12vh; 
 }
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: 'Kanit';
+  src: url('./src/asset/fonts/Kanit/your-font-file.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
