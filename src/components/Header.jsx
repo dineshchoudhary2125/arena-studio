@@ -19,7 +19,7 @@ function Header() {
     <header className="h-[12vh] bg-black w-full fixed top-0 left-0 flex items-center justify-between px-6 md:px-7 z-50 shadow-2xl">
       <div className="h-fit w-fit">
         <Link to="/" className="flex items-center">
-          <h1 className="text-white text-2xl font-bold whitespace-nowrap font-kanit">Arena Studio</h1>
+          <h1 className="text-white text-xl font-bold whitespace-nowrap font-kanit">ARENA STUDIO</h1>
         </Link>
       </div>
 
