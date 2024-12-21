@@ -49,7 +49,7 @@ function Header() {
               <NavLink
                 to={path}
                 className={({ isActive }) =>
-                  `text-xs md:text-sm lg:text-md ${
+                  `font-kanit  md:text-sm lg:text-md ${
                     isActive ? 'text-yellow-400' : 'text-white'
                   } hover:text-yellow-400`
                 }

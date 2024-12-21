@@ -14,8 +14,8 @@ function Home() {
       ></video>
 
       <div className="absolute inset-0 flex flex-col items-center justify-center text-white text-center px-4">
-        <h1 className="text-2xl md:text-4xl font-kanit font-bold uppercase ">Crafting the Perfect Space for You.</h1>
-        <p className="mt-4 text-sm md:text-xl font-kanit font-bold uppercase">
+        <h1 className="text-2xl md:text-4xl font-kanit font-bold ">Crafting the Perfect Space for You.</h1>
+        <p className="mt-4 text-sm md:text-xl font-kanit font-bold">
           Architecture | Interior Design | Landscape
         </p>
         <NavLink
